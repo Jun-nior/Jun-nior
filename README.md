@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Trung Tran, and I am currently a computer engineering student at Ho Chi Minh City University of Technology.
+
 <!--
 **Jun-nior/Jun-nior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
