@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Trung Tran, and I am currently a computer engineering student at Ho Chi Minh City University of Technology.
 
