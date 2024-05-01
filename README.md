@@ -1,5 +1,6 @@
-# Hi there 👋
+# Hi there, I am Jun_nior 👋
 
+## About me
 I am Trung Tran, and I am currently a computer engineering student at Ho Chi Minh City University of Technology.
 
 <!--
