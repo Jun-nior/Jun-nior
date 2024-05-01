@@ -4,7 +4,10 @@
 &#9679; I am Trung Tran, and I am currently a computer engineering student at Ho Chi Minh City University of Technology.
 ### Goals
 &#9679; Completing my bachelor degree.
+
 &#9679; Explore the world.
+
+# Skills
 
 <!--
 **Jun-nior/Jun-nior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
