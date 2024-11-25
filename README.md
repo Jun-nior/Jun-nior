@@ -21,6 +21,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Verilog](https://img.shields.io/badge/verilog-%2300599C.svg?style=flat-square&logo=systemverilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/systemverilog-%2300599C.svg?style=flat-square&logo=systemverilog&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 
@@ -31,6 +32,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-1574F6?style=flat-square&logo=xilinx&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![VCS Verdi](https://img.shields.io/badge/VCS_Verdi-003B5C?style=flat-square&logo=verdi&logoColor=white)
 
 ## Libraries and others
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
