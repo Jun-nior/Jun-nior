@@ -9,9 +9,9 @@
 
 ### Contact me
 
-&#9679; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trungtranminh0706/)
+&#9679; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhtrungtran1702/)
 
-&#9679; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trung.tranminhk21@hcmut.edu.vn)
+&#9679; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:petertg1702@gmail.com)
 
 
 # Skills
